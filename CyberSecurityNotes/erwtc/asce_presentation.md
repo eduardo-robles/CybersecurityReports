@@ -1,3 +1,33 @@
+% ASCE Presentation
+
+# 
+
+
+# About speaker
+
+<div class="NOTES">
+-   Hi I'm Eduardo Robles I run aMy requirements, which lead me to select reveal.js, are as follows:n I.T consulting company specializing in data backups and remote support.
+-   I got a degree in Anthropology and Mexican American Studies but don't worry I've been into computers since childhood.
+-   I even wrote several papers on "hacker/internet" culture for my degrees. (Ask me about it!)
+-   I'm currently pursuing a Master degree in I.T.
+-   You can check out my skills over on my Youtube channel or my business blog. **Bonus, I give out a lot of free advice over there.**
+
+</div>
+
+-   Hi! I'm Eduardo Robles
+-   Owner of Eduardo Robles Web & Technology Consulting (ERWTC)
+-   Since I was a kid technology was a passion of mine and I wanted to be an inventor.
+-   I would tinker and take apart all kinds of electronics, much to my mothers dismay.
+
+
+## 
+
+-   The primary function of my business is education and consultation all while specializing in remote support.
+-   I have worked with Engineers, Accountants, Lawyers and other small businesses.
+-   I have been serving the South Texas region for 3 years.
+-   I have degrees in Anthropology and Mexican American Studies.
+
+
 # Cybersecurity for Engineers
 
 Main Topics:
@@ -480,4 +510,10 @@ Use a passphrase for those occasions.
 -   If you take a proactive approach to security the less likely you will fall victim to a cyberattack.
 -   Cyberattacks are not going away and they will become more sophisticated in the future.
 -   So be sure to "extra-cautious", and have a healthy dose of paranoia.
+
+
+# Questions/Comments
+
+
+# Thank You!
 
